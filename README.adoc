@@ -1,1 +1,3 @@
 Demo Gradle project with a travis build and Black Duck copilot
+
+Take 2
