@@ -1,1 +1,1 @@
-Demo Gradle project
+Demo Gradle project with a travis build and Black Duck copilot
